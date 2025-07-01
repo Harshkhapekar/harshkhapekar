@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Harsh Khapekar
 
-🎓 Final Year CSE Student | 💻 AI/ML & Full-Stack Developer | 🌍 Nagpur, India  
+🎓 Final Year CSE Student | 💻 AI/ML & Full-Stack Development Enthusiast | 🌍 Nagpur, India  
 🔬 Passionate about AI-powered solutions, automation, and building real-world intelligent systems.
 
 ---
@@ -8,11 +8,11 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on:
-  - 🐅 `AI Wildlife Monitoring System`
-  - 🧠 `Voice Assistant using GPT-4`
+  - 🐅 `Full Stack Development`
+  - 🧠 `Voice Assistant using Gemini Api`
 - 🧠 Exploring:
   - Generative AI (LLMs), NLP, and Real-Time AI Apps
-  - ServiceNow Scoped App Development
+  - ServiceNow And Aws Cloud Platforms
 - 🏆 Certified:
   - ✅ ServiceNow Certified Application Developer (CAD)
   - ✅ ServiceNow Certified System Administrator (CSA)
