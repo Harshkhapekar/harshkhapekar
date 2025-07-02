@@ -67,15 +67,14 @@
 ➡️ **Explore more at:** [github.com/harshkhapekar](https://github.com/harshkhapekar?tab=repositories)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=radical" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=radical&count_private=true&v=2" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=10&theme=radical" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=10&theme=radical&v=2" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=harshkhapekar&theme=radical" />
+  <img width="500" src="https://streak-stats.demolab.com?user=harshkhapekar&theme=radical&v=2" />
 </p>
 
 ---
