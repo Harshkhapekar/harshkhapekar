@@ -61,7 +61,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🧠 **Voice Assistant** | Smart assistant powered by OpenAI API & speech recognition | Python, GPT-4, Streamlit |
+| 🧠 **Voice Assistant** | Smart assistant powered by Gemini-Api & speech recognition | Python, Gemini-api |
 
 ➡️ **Explore more at:** [github.com/harshkhapekar](https://github.com/harshkhapekar?tab=repositories)
 
