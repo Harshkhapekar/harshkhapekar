@@ -61,7 +61,6 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🐅 **AI Wildlife Monitoring** | Counts striped animals from camera trap footage using body features | Python, YOLOv5, OpenCV |
 | 🧠 **Voice Assistant** | Smart assistant powered by OpenAI API & speech recognition | Python, GPT-4, Streamlit |
 
 ➡️ **Explore more at:** [github.com/harshkhapekar](https://github.com/harshkhapekar?tab=repositories)
