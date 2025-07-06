@@ -9,10 +9,10 @@
 
 - 🔭 I’m currently working on:
   - 🐅 `Full Stack Development`
-  - 🧠 `Voice Assistant using Gemini Api`
+  - 🧠 `Voice Assistant using Gemini API`
 - 🧠 Exploring:
   - Generative AI (LLMs), NLP, and Real-Time AI Apps
-  - ServiceNow And Aws Cloud Platforms
+  - ServiceNow and AWS Cloud Platforms
 - 🏆 Certified:
   - ✅ ServiceNow Certified Application Developer (CAD)
   - ✅ ServiceNow Certified System Administrator (CSA)
@@ -61,19 +61,21 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🧠 **Voice Assistant** | Smart assistant powered by Gemini-Api & speech recognition | Python, Gemini-api |
+| 🧠 **Voice Assistant** | Smart assistant powered by Gemini API & speech recognition | Python, Gemini API |
+| 🔥 **Forest Fire Detection** | Detects and classifies forest fire zones using satellite image analysis | Python, OpenCV, ML, Satellite Data |
 
 ➡️ **Explore more at:** [github.com/harshkhapekar](https://github.com/harshkhapekar?tab=repositories)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=radical&count_private=true&v=2" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=radical&count_private=true&v=5" />
   <br />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=10&theme=radical&v=2" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=10&theme=radical&v=5" />
   <br />
-  <img width="500" src="https://streak-stats.demolab.com?user=harshkhapekar&theme=radical&v=2" />
+  <img width="500" src="https://streak-stats.demolab.com?user=harshkhapekar&theme=radical&v=5" />
 </p>
 
 ---
@@ -106,5 +108,3 @@
 - 🎯 Goal: Build AI apps that solve real-world problems  
 - 🧘‍♂️ Hobbies: Meditation, tech blogging, mentoring juniors  
 - 💬 Motto: _"Code with clarity. Build with impact."_
-
----
