@@ -107,4 +107,4 @@
 
 - 🎯 Goal: Build AI apps that solve real-world problems  
 - 🧘‍♂️ Hobbies: Meditation, tech blogging, mentoring juniors  
-- 💬 Motto: _"Code with clarity. Build with impact."_
+- 💬 Motto: _"Code with clarity. Build with impact."
