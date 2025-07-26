@@ -71,11 +71,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=radical&count_private=true&v=5" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=radical&count_private=true&cache_bust=1" />
   <br />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=10&theme=radical&v=5" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=10&theme=radical&cache_bust=1" />
   <br />
-  <img width="500" src="https://streak-stats.demolab.com?user=harshkhapekar&theme=radical&v=5" />
+  <img width="500" src="https://streak-stats.demolab.com?user=harshkhapekar&theme=radical" />
+  <br />
+  <img width="500" src="https://github-readme-activity-graph.cyclic.app/graph?username=harshkhapekar&theme=react-dark" />
 </p>
 
 ---
@@ -107,4 +109,9 @@
 
 - 🎯 Goal: Build AI apps that solve real-world problems  
 - 🧘‍♂️ Hobbies: Meditation, tech blogging, mentoring juniors  
-- 💬 Motto: _"Code with clarity. Build with impact."
+- 💬 Motto: _"Code with clarity. Build with impact."_
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=harshkhapekar&label=Profile%20views&color=blue&style=flat)
+
