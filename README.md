@@ -85,7 +85,7 @@
 ## 📜 Certifications
 
 - ✅ **ServiceNow Certified Application Developer (CAD)** – 2025  
-- ✅ **ServiceNow Certified System Administrator (CSA)** – 2024  
+- ✅ **ServiceNow Certified System Administrator (CSA)** – 2025 
 
 ---
 
@@ -114,4 +114,3 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshkhapekar&label=Profile%20views&color=blue&style=flat)
-
