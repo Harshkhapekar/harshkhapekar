@@ -71,13 +71,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=radical&count_private=true&cache_bust=1" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=radical&count_private=true" />
   <br />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=10&theme=radical&cache_bust=1" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=10&theme=radical" />
   <br />
   <img width="500" src="https://streak-stats.demolab.com?user=harshkhapekar&theme=radical" />
   <br />
-  <img width="500" src="https://github-readme-activity-graph.cyclic.app/graph?username=harshkhapekar&theme=react-dark" />
+  <img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=harshkhapekar&theme=react-dark" />
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ## 📜 Certifications
 
 - ✅ **ServiceNow Certified Application Developer (CAD)** – 2025  
-- ✅ **ServiceNow Certified System Administrator (CSA)** – 2025 
+- ✅ **ServiceNow Certified System Administrator (CSA)** – 2024  
 
 ---
 
