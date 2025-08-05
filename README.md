@@ -1,7 +1,5 @@
-<!-- README.md with enhanced animation and layout (content untouched) -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there!+I'm+Harsh+Khapekar;Final+Year+CSE+Student;AI+%26+Full-Stack+Enthusiast;Welcome+to+my+GitHub!&center=true&size=27" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there!+I'm+Harsh+Khapekar;Final+Year+CSE+Student;AI+%26+Full-Stack+Enthusiast;Welcome+to+my+GitHub!&center=true&size=27&pause=1000&width=1000" />
 </h1>
 
 <p align="center">
@@ -10,10 +8,12 @@
 
 ---
 
-<!-- About Me -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎓+Final+Year+CSE+Student+from+Nagpur; 🚀+AI+and+Automation+Enthusiast; 🏆+Certified+CAD+%26+CSA&center=true&color=00bfff&width=600" />
-</div>
+## 💡 About Me
+
+🎓 Final Year CSE Student from Nagpur, India  
+🚀 Passionate about AI, Automation, and Scalable Full-Stack Development  
+🏆 ServiceNow Certified CAD & CSA  
+🎯 Motto: *"Code with clarity. Build with impact."*
 
 ---
 
@@ -28,47 +28,39 @@
 
 ## 🛠️ Tech Stack
 
-<details>
-  <summary><b>🧑‍💻 Programming & Scripting</b></summary>
+### 🧑‍💻 Programming & Scripting
+<p>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3"/>
+</p>
 
-  ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+### 📚 Libraries & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0080CD?style=flat"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn"/>
+</p>
 
-</details>
+### 🤖 AI/ML Concepts
+<p>
+  <img src="https://img.shields.io/badge/Supervised%20Learning-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Unsupervised%20Learning-darkblue?style=flat"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-green?style=flat&logo=openai"/>
+  <img src="https://img.shields.io/badge/Vector%20Embeddings-FF9800?style=flat"/>
+</p>
 
-<details>
-  <summary><b>📚 Libraries & Frameworks</b></summary>
-
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-0080CD?style=flat)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-  ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
-
-</details>
-
-<details>
-  <summary><b>🤖 AI/ML Concepts</b></summary>
-
-  ![Supervised](https://img.shields.io/badge/Supervised%20Learning-blue?style=flat)
-  ![Unsupervised](https://img.shields.io/badge/Unsupervised%20Learning-darkblue?style=flat)
-  ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-green?style=flat&logo=openai)
-  ![Embeddings](https://img.shields.io/badge/Vector%20Embeddings-FF9800?style=flat)
-
-</details>
-
-<details>
-  <summary><b>📄 Databases</b></summary>
-
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-
-</details>
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql"/>
+</p>
 
 ---
 
@@ -97,7 +89,7 @@
 
 ---
 
-## 📌 Certifications
+## 📜 Certifications
 
 - ✅ **ServiceNow CAD** – 2025  
 - ✅ **ServiceNow CSA** – 2024  
@@ -116,9 +108,9 @@
 
 ## ⚡ Fun Facts
 
-- 💬 I mentor juniors in ML/AI  
-- ✍️ I love writing blogs & documenting projects  
-- 🧘‍♂️ I meditate for better focus  
+- 💬 I mentor juniors in ML/AI
+- ✍️ I love writing blogs & documenting projects
+- 🧘‍♂️ I meditate for better focus
 - 🧠 I believe in life-long learning
 
 ---
