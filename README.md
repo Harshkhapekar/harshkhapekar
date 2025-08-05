@@ -1,120 +1,168 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+there!+I'm+Harsh+Khapekar;Final+Year+CSE+Student;AI+%26+Full-Stack+Enthusiast;Welcome+to+my+GitHub!&center=true&size=27&pause=1000&width=1000" />
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Profile</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Typing animation" />
-</p>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(120deg, #e0eafc, #cfdef3);
+      color: #333;
+      padding: 40px 20px;
+      animation: fadeIn 1.5s ease-in;
+    }
 
----
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
 
-## 💡 About Me
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      border-radius: 15px;
+      box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+      padding: 40px;
+      animation: slideUp 1.2s ease;
+    }
 
-🎓 Final Year CSE Student from Nagpur, India  
-🚀 Passionate about AI, Automation, and Scalable Full-Stack Development  
-🏆 ServiceNow Certified CAD & CSA  
-🎯 Motto: *"Code with clarity. Build with impact."*
+    @keyframes slideUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
 
----
+    h1 {
+      font-size: 36px;
+      text-align: center;
+      background: linear-gradient(45deg, #1a73e8, #673ab7);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 30px;
+      font-weight: 800;
+    }
 
-## 🔭 Current Focus
+    .section {
+      margin-bottom: 25px;
+      padding: 20px;
+      border-left: 5px solid #1a73e8;
+      border-radius: 10px;
+      background: #f5faff;
+      transition: all 0.3s ease;
+    }
 
-- 🧠 Voice Assistant using Gemini API
-- 🌍 Full Stack Development with AI Integration
-- ☁️ Exploring ServiceNow & AWS Cloud  
-- 🧪 Working with Generative AI, LLMs, and NLP
+    .section:hover {
+      transform: scale(1.02);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.07);
+    }
 
----
+    .section h2 {
+      font-size: 22px;
+      margin-bottom: 10px;
+      color: #1a237e;
+    }
 
-## 🛠️ Tech Stack
+    .section p {
+      font-size: 16px;
+      line-height: 1.6;
+    }
 
-### 🧑‍💻 Programming & Scripting
-<p>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3"/>
-</p>
+    .icon {
+      color: #1a73e8;
+      margin-right: 10px;
+    }
 
-### 📚 Libraries & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0080CD?style=flat"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn"/>
-</p>
+    @media (max-width: 600px) {
+      .container {
+        padding: 20px;
+      }
 
-### 🤖 AI/ML Concepts
-<p>
-  <img src="https://img.shields.io/badge/Supervised%20Learning-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/Unsupervised%20Learning-darkblue?style=flat"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-green?style=flat&logo=openai"/>
-  <img src="https://img.shields.io/badge/Vector%20Embeddings-FF9800?style=flat"/>
-</p>
+      h1 {
+        font-size: 28px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1><i class="fas fa-user icon"></i>My Profile</h1>
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql"/>
-</p>
+    <div class="section">
+      <h2><i class="fas fa-user-graduate icon"></i>Objective</h2>
+      <p>To gain knowledge and experience in the field of Computer Science and Software Development while contributing to the organization's success.</p>
+    </div>
 
----
+    <div class="section">
+      <h2><i class="fas fa-id-card icon"></i>Personal Information</h2>
+      <p><strong>Name:</strong> Harsh Khapekar<br>
+         <strong>Date of Birth:</strong> 13/12/2003<br>
+         <strong>Gender:</strong> Male<br>
+         <strong>Languages Known:</strong> English, Hindi, Marathi<br>
+         <strong>Nationality:</strong> Indian
+      </p>
+    </div>
 
-## 🧩 Featured Projects
+    <div class="section">
+      <h2><i class="fas fa-book icon"></i>Academic Qualification</h2>
+      <p><strong>Bachelor of Technology (B.Tech)</strong><br>
+         G.H. Raisoni Institute of Engineering and Technology, Nagpur<br>
+         RTMNU | Year: 2025 | CGPA: 6.9
+      </p>
+      <p><strong>12th (HSC)</strong><br>
+         Prerna Junior College, Nagpur | Year: 2021 | Percentage: 55.69%
+      </p>
+      <p><strong>10th (SSC)</strong><br>
+         NMC School, Nagpur | Year: 2019 | Percentage: 65.40%
+      </p>
+    </div>
 
-| 💡 Project | 🚀 Description | 🛠️ Tech |
-|-----------|----------------|----------|
-| 🧠 **Voice Assistant** | GPT-powered voice assistant using Gemini API | Python, Speech-to-Text |
-| 🔥 **Forest Fire Detection** | AI to detect wildfire zones using satellite images | Python, OpenCV, ML |
+    <div class="section">
+      <h2><i class="fas fa-laptop-code icon"></i>Technical Skills</h2>
+      <p><strong>Languages:</strong> C, C++, Python, Java, HTML, CSS, JavaScript, SQL<br>
+         <strong>Operating Systems:</strong> Windows, Linux<br>
+         <strong>Tools & Technologies:</strong> Git, GitHub, VS Code, MySQL, ServiceNow
+      </p>
+    </div>
 
-🌐 **More Projects:** [github.com/harshkhapekar](https://github.com/harshkhapekar?tab=repositories)
+    <div class="section">
+      <h2><i class="fas fa-certificate icon"></i>Certifications</h2>
+      <p>1. ServiceNow Certified System Administrator – ServiceNow<br>
+         2. Salesforce AI Associate – Salesforce
+      </p>
+    </div>
 
----
+    <div class="section">
+      <h2><i class="fas fa-project-diagram icon"></i>Project</h2>
+      <p><strong>Title:</strong> Beggar-Free India Awareness<br>
+         <strong>Description:</strong> Created and published a solo awareness video on “Beggar-Free India” to promote social consciousness through the NGO Avbodh Foundation, Nagpur.
+      </p>
+    </div>
 
-## 📊 GitHub Stats
+    <div class="section">
+      <h2><i class="fas fa-hands-helping icon"></i>Extra Curricular Activities</h2>
+      <p>Active participation in blood donation camps, street plays, and other social awareness programs organized by the Avbodh Foundation NGO, Nagpur.</p>
+    </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=radical&count_private=true&cache_buster=2" width="400px" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=10&theme=radical&cache_buster=2" width="340px" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=harshkhapekar&theme=radical" width="500px" />
-  <br />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshkhapekar&theme=react-dark" width="100%" />
-</p>
+    <div class="section">
+      <h2><i class="fas fa-thumbs-up icon"></i>Strengths</h2>
+      <p>Self-motivated, quick learner, leadership skills, strong communication, and time management abilities.</p>
+    </div>
 
----
-
-## 📜 Certifications
-
-- ✅ **ServiceNow CAD** – 2025  
-- ✅ **ServiceNow CSA** – 2024  
-
----
-
-## 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsh-khapekar-054a612a5"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:harshkhapekar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/harshkhapekar"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
-## ⚡ Fun Facts
-
-- 💬 I mentor juniors in ML/AI
-- ✍️ I love writing blogs & documenting projects
-- 🧘‍♂️ I meditate for better focus
-- 🧠 I believe in life-long learning
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshkhapekar&label=Profile%20Views&color=blue&style=flat" />
-</p>
+    <div class="section">
+      <h2><i class="fas fa-bolt icon"></i>Hobbies</h2>
+      <p>Playing cricket, reading books, participating in social events, creating awareness videos, and contributing to social initiatives.</p>
+    </div>
+  </div>
+</body>
+</html>
