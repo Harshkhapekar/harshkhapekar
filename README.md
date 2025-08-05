@@ -1,95 +1,104 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harsh%20Khapekar&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=fff" />
-</p>
-
-<div align="center">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Harsh+Khapekar;AI+%26+ML+Enthusiast;Full-Stack+Developer;ServiceNow+Certified+Pro" alt="Typing SVG" />
-    </a>
-  </h1>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Harsh+Khapekar;AI%2FML+%26+Full-Stack+Developer;ServiceNow+Certified;Welcome+to+my+GitHub!&center=true&size=22">
+</h1>
 
 <p align="center">
-  🎓 Final Year CSE Student | 💻 AI/ML & Full-Stack Development Enthusiast | 🌍 Nagpur, India
-</p>
-<p align="center">
+  🎓 Final Year CSE Student | 💻 AI/ML & Full-Stack Development Enthusiast | 🌍 Nagpur, India  
+  <br>
   🔬 Passionate about AI-powered solutions, automation, and building real-world intelligent systems.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently building a **Voice Assistant using the Gemini API**.
-- 🧠 I’m exploring **Generative AI (LLMs), NLP, and Real-Time AI Applications**.
-- ☁️ I'm diving into **ServiceNow and AWS Cloud Platforms**.
-- 🏆 I'm proud to be a **ServiceNow Certified Application Developer (CAD)** & **System Administrator (CSA)**.
+
+- 🔭 I’m currently working on:
+  - 🐅 Full Stack Development
+  - 🧠 Voice Assistant using Gemini API
+- 🧠 Exploring:
+  - Generative AI (LLMs), NLP, and Real-Time AI Apps
+  - ServiceNow and AWS Cloud Platforms
+- 🏆 Certified:
+  - ✅ ServiceNow Certified Application Developer (CAD)
+  - ✅ ServiceNow Certified System Administrator (CSA)
 
 ---
 
-## 🛠️ My Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,tensorflow,pytorch,scikitlearn,pandas,numpy,opencv,postman,git,github,vscode,aws,docker,postgresql,mysql" />
-  </a>
-</p>
+## 🛠️ Tech Stack
 
----
+### 💻 Programming
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 My GitHub Stats & Activity
+### 📚 Libraries & Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0080CD?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshkhapekar&theme=radical" alt="GitHub Trophies" />
-  </a>
-</p>
+### 🤖 AI / ML
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-2196f3?style=for-the-badge&logo=google)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-0d47a1?style=for-the-badge&logo=google)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10b981?style=for-the-badge&logo=openai&logoColor=white)
+![Vector Embeddings](https://img.shields.io/badge/Vector%20Embeddings-F97316?style=for-the-badge)
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=tokyonight&count_private=true" alt="Harsh's GitHub Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=10&theme=tokyonight" alt="Harsh's Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/streak?user=harshkhapekar&theme=tokyonight&hide_border=true" alt="Harsh's GitHub Streak" />
-    </td>
-  </tr>
-</table>
+### 🎵 Signal & Audio Processing
+![Audio Features](https://img.shields.io/badge/Audio%20Features-F97316?style=for-the-badge)
 
----
+### 📊 Data Analysis
+![EDA](https://img.shields.io/badge/EDA-3B82F6?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-A3E635?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-22C55E?style=for-the-badge)
 
-## Contributions Skyline
-
-<p align="center">
-  <b>My GitHub Contributions from 2024</b>
-  <a href="https://skyline.github.com/harshkhapekar/2024">
-    <img width="90%" src="https://skyline.github.com/harshkhapekar/2024.png" alt="GitHub Skyline 2024" />
-  </a>
-</p>
-<p align="center">
-  <b>My GitHub Contributions for 2025 (So Far)</b>
-  <a href="https://skyline.github.com/harshkhapekar/2025">
-    <img width="90%" src="https://skyline.github.com/harshkhapekar/2025.png" alt="GitHub Skyline 2025" />
-  </a>
-</p>
+### 🗄️ Database Management
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
-| Project | Description | Tech |
-|---|---|---|
-| 🧠 **Voice Assistant** | Smart assistant powered by Gemini API & speech recognition | Python, Gemini API |
-| 🔥 **Forest Fire Detection** | Detects and classifies forest fire zones using satellite image analysis | Python, OpenCV, ML |
 
-➡️ **Explore all my projects at:** [github.com/harshkhapekar](https://github.com/harshkhapekar?tab=repositories)
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🧠 **Voice Assistant** | Smart assistant powered by Gemini API & speech recognition | Python, Gemini API |
+| 🔥 **Forest Fire Detection** | Detects and classifies forest fire zones using satellite image analysis | Python, OpenCV, ML, Satellite Data |
+
+➡️ **Explore more at:** [github.com/harshkhapekar](https://github.com/harshkhapekar?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshkhapekar&theme=radical&hide_border=true" width="75%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkhapekar&theme=react-dark&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 📜 Certifications
+
+- ✅ **ServiceNow Certified Application Developer (CAD)** – 2025  
+- ✅ **ServiceNow Certified System Administrator (CSA)** – 2024  
 
 ---
 
 ## 📬 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-khapekar-054a612a5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -98,10 +107,20 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/harshkhapekar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+---
+
+## 🧩 Fun & Extras
+
+- 🎯 Goal: Build AI apps that solve real-world problems  
+- 🧘‍♂️ Hobbies: Meditation, tech blogging, mentoring juniors  
+- 💬 Motto: _"Code with clarity. Build with impact."_
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshkhapekar&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=harshkhapekar&label=Profile%20Views&color=blue&style=flat" />
 </p>
