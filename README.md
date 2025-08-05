@@ -28,7 +28,6 @@
 ---
 
 ## 🛠️ My Tech Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,tensorflow,pytorch,scikitlearn,pandas,numpy,opencv,postman,git,github,vscode,aws,docker,postgresql,mysql" />
@@ -41,7 +40,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshkhapekar&theme=radical&rank=-C,-B" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=harshkhapekar&theme=radical" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -56,7 +55,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=harshkhapekar&theme=tokyonight&hide_border=true" alt="Harsh's GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/streak?user=harshkhapekar&theme=tokyonight&hide_border=true" alt="Harsh's GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -81,7 +80,6 @@
 ---
 
 ## 📂 Featured Projects
-
 | Project | Description | Tech |
 |---|---|---|
 | 🧠 **Voice Assistant** | Smart assistant powered by Gemini API & speech recognition | Python, Gemini API |
@@ -92,7 +90,6 @@
 ---
 
 ## 📬 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-khapekar-054a612a5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
