@@ -152,16 +152,22 @@ AI/ML system that detects and classifies forest-fire zones using satellite image
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
-    <img alt="github contribution snake animation" src="./profile/github-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/harshkhapekar/harshkhapekar/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/harshkhapekar/harshkhapekar/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/harshkhapekar/harshkhapekar/output/github-snake.svg"
+    />
   </picture>
 </p>
 
 ---
-
-# 📜 Certifications
-
 <p align="center">
   <img src="https://img.shields.io/badge/ServiceNow-Certified%20Application%20Developer-00A1E0?style=for-the-badge&logo=servicenow" />
   <img src="https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-00A1E0?style=for-the-badge&logo=servicenow" />
