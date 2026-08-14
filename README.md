@@ -1,118 +1,210 @@
 # 👋 Hello World, I'm Harsh Khapekar
 
-🎓 Final Year CSE Student | 💻 AI/ML & Full-Stack Development Enthusiast | 🌍 Nagpur, India  
-🔬 Passionate about AI-powered solutions, automation, and building real-world intelligent systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Final+Year+CSE+Student;AI%2FML+%26+Full-Stack+Developer;Building+AI-Powered+Real-World+Solutions;Exploring+Generative+AI+%26+Cloud" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/harshkhapekar">
+    <img src="https://img.shields.io/github/followers/harshkhapekar?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=harshkhapekar&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on:
-  - 🐅 Full Stack Development
-  - 🧠 Voice Assistant using Gemini API
-- 🧠 Exploring:
-  - Generative AI (LLMs), NLP, and Real-Time AI Apps
-  - ServiceNow and AWS Cloud Platforms
-- 🏆 Certified:
-  - ✅ ServiceNow Certified Application Developer (CAD)
-  - ✅ ServiceNow Certified System Administrator (CSA)
+🎓 **Final Year Computer Science Engineering Student**
+💻 **AI/ML & Full-Stack Development Enthusiast**
+🌍 **Nagpur, India**
+
+I'm passionate about building **AI-powered applications, intelligent automation systems, and practical software solutions** that solve real-world problems.
+
+### 🔭 Currently Working On
+
+* 🐅 Full-Stack Development
+* 🧠 Voice Assistant using Gemini API
+
+### 🧠 Currently Exploring
+
+* 🤖 Generative AI & LLMs
+* 🗣️ NLP & Real-Time AI Applications
+* ☁️ AWS Cloud
+* ⚙️ ServiceNow
+
+### 🏆 Certifications
+
+* ✅ ServiceNow Certified Application Developer (CAD) — 2025
+* ✅ ServiceNow Certified System Administrator (CSA) — 2024
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming
-![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📚 Libraries & Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0080CD?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### 🤖 AI / ML
-![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-2196f3?style=for-the-badge&logo=google)
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-0d47a1?style=for-the-badge&logo=google)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10b981?style=for-the-badge&logo=openai&logoColor=white)
-![Vector Embeddings](https://img.shields.io/badge/Vector%20Embeddings-F97316?style=for-the-badge)
-
-### 🎵 Signal & Audio Processing
-![Audio Features](https://img.shields.io/badge/Audio%20Features-F97316?style=for-the-badge)
-
-### 📊 Data Analysis
-![EDA](https://img.shields.io/badge/EDA-3B82F6?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-A3E635?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-22C55E?style=for-the-badge)
-
-### 🗄️ Database Management
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧠 **Voice Assistant** | Smart assistant powered by Gemini API & speech recognition | Python, Gemini API |
-| 🔥 **Forest Fire Detection** | Detects and classifies forest fire zones using satellite image analysis | Python, OpenCV, ML, Satellite Data |
-
-➡️ **Explore more at:** [github.com/harshkhapekar](https://github.com/harshkhapekar?tab=repositories)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&theme=radical&count_private=true" />
-  <br />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=10&theme=radical" />
-  <br />
-  <img width="500" src="https://streak-stats.demolab.com?user=harshkhapekar&theme=radical" />
-  <br />
-  <img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=harshkhapekar&theme=react-dark" />
-</p>
-
----
-
-## 📜 Certifications
-
-- ✅ **ServiceNow Certified Application Developer (CAD)** – 2025  
-- ✅ **ServiceNow Certified System Administrator (CSA)** – 2024  
-
----
-
-## 📬 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/harsh-khapekar-054a612a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshkhapekar1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/harshkhapekar">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
+</p>
+
+### 📚 Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,express,opencv" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google-Gemini%20API-4285F4?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-orange?style=for-the-badge" />
+</p>
+
+### 🎵 Signal & Audio Processing
+
+<p>
+  <img src="https://img.shields.io/badge/Speech%20Recognition-Audio%20Processing-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real--Time%20Audio-Processing-red?style=for-the-badge" />
+</p>
+
+### 📊 Data Analysis
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Voice Assistant
+
+AI-powered voice assistant capable of understanding speech and interacting with users through the Gemini API.
+
+**Tech:** Python • Gemini API • Speech Recognition
+
+</td>
+
+<td width="50%">
+
+### 🔥 Forest Fire Detection
+
+AI/ML system that detects and classifies forest-fire zones using satellite imagery.
+
+**Tech:** Python • OpenCV • Machine Learning • Satellite Data
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/harshkhapekar?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀%20Explore%20All%20Projects-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 🧩 Fun & Extras
+# 📊 GitHub Analytics
 
-- 🎯 Goal: Build AI apps that solve real-world problems  
-- 🧘‍♂️ Hobbies: Meditation, tech blogging, mentoring juniors  
-- 💬 Motto: _"Code with clarity. Build with impact."_
+<p align="center">
+  <img src="./profile/github-stats.svg" width="49%" />
+  <img src="./profile/top-langs.svg" width="49%" />
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshkhapekar&label=Profile%20views&color=blue&style=flat)
-why not working contribution and strak section Dynamic
-add animation and visuals to enhance profile
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="./profile/streak.svg" width="70%" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkhapekar&theme=github-compact&hide_border=true" width="95%" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
+    <img alt="github contribution snake animation" src="./profile/github-snake.svg">
+  </picture>
+</p>
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ServiceNow-Certified%20Application%20Developer-00A1E0?style=for-the-badge&logo=servicenow" />
+  <img src="https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-00A1E0?style=for-the-badge&logo=servicenow" />
+</p>
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/harshkhapekar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
+
+---
+
+# 🎯 Goals
+
+```text
+AI Engineering        ███████████████████░░ 90%
+Full-Stack Development ██████████████████░░░ 85%
+Generative AI         █████████████████░░░░ 80%
+Cloud & DevOps        ███████████████░░░░░░ 70%
+System Design         █████████████░░░░░░░░ 65%
+```
+
+> 💡 **Code with clarity. Build with impact.**
+
+---
+
+<p align="center">
+  <i>🚀 Building intelligent systems one commit at a time.</i>
+</p>
