@@ -132,27 +132,21 @@ AI/ML system that detects and classifies forest-fire zones using satellite image
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile/github-stats.svg" width="49%" />
-  <img src="./profile/top-langs.svg" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=8&hide_border=true" width="48%" />
 </p>
-
----
 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="./profile/streak.svg" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkhapekar&theme=dark&hide_border=true" width="70%" />
 </p>
-
----
 
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkhapekar&theme=github-compact&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkhapekar&theme=github-compact&hide_border=true&area=true" width="95%" />
 </p>
-
----
 
 # 🐍 Contribution Snake
 
