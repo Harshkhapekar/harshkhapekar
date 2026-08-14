@@ -132,9 +132,19 @@ AI/ML system that detects and classifies forest-fire zones using satellite image
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkhapekar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkhapekar&layout=compact&langs_count=8&hide_border=true" width="48%" />
+  <img
+    src="https://raw.githubusercontent.com/harshkhapekar/harshkhapekar/main/profile/github-stats.svg"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://raw.githubusercontent.com/harshkhapekar/harshkhapekar/main/profile/top-langs.svg"
+    alt="Top Languages"
+    width="48%"
+  />
 </p>
+
+---
 
 # 🔥 GitHub Streak
 
