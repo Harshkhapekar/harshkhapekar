@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Harsh Khapekar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Final+Year+CSE+Student;AI%2FML+%26+Full-Stack+Developer;Building+AI-Powered+Real-World+Solutions;Exploring+Generative+AI+%26+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science Engineer;AI%2FML+%26+Full-Stack+Developer;Building+AI-Powered+Real-World+Solutions;Exploring+Generative+AI+%26+Cloud" alt="Typing SVG" />
 </p>
 
 <p align="center">
